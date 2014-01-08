@@ -19,6 +19,14 @@
         <process.engine.commons.version>14.1.4-alpha-1</process.engine.commons.version>
     </properties>
 
+    <distributionManagement>
+        <repository>
+            <id>releases</id>
+            <url>${repository.url.releases}</url>
+            <uniqueVersion>true</uniqueVersion>
+        </repository>
+    </distributionManagement>
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
