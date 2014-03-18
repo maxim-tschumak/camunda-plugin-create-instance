@@ -1,5 +1,5 @@
-Create Instance Plugin for Camunda Cockpit
-==========================================
+Create Instance Plugin
+======================
 
 Plugin for Camunda Cockpit
 
